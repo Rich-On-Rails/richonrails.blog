@@ -1,0 +1,52 @@
+body {
+	background-color: #4C3957;
+	color: #fff;
+}
+
+a {
+	color: #fff;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #79B473;
+	text-decoration: none;
+}
+
+img.profile_photo{
+	display: none;
+}
+
+.site-header { 
+	text-align: center; 
+}
+
+header h1 a, header h1 a:visited {
+	color: #fff;
+}
+
+a.post-date {
+color: #79B473;
+}
+
+nav a, nav a:visited, nav a:hover {
+	border: none;
+	color: #79B473;
+}
+
+nav a:hover, nav a:hover {
+	border: none;
+	color: #79B473;
+	background-color: #414073;
+}
+
+p.h-entry {
+
+	background-color: #41658A;
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px;
+}
+
+span.dt-published {
+color: #79B473;
+}
